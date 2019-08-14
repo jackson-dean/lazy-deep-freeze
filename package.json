@@ -1,0 +1,9 @@
+{
+  "name": "lazy-deep-freeze",
+  "version": "0.0.1",
+  "description": "Lazily deep freeze objects and arrays using native es6 Proxy",
+  "main": "index.js",
+  "repository": "https://github.com/jackson-dean/lazy-deep-freeze.git",
+  "author": "Jackson Dean",
+  "license": "MIT"
+}
